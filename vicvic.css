@@ -1,0 +1,50 @@
+h1{color:#FDF5E6;
+font-family: Georgia, Arial, Helvetica, sans-serif;
+font-size:100px;
+position : relative ; top: -5px;
+left: 200px;
+}
+p{color:#B0E0E6;
+font-size:26px;
+font-family: Georgia, Arial, Helvetica, sans-serif;
+position : relative ; top: -5px;
+left: 40px;
+}
+p1{color:black;
+font-size:16px;
+font-family: Georgia, Arial, Helvetica, sans-serif;
+font-style: italic;
+}
+body{background-image: url(http://www.designlovefest.com/wp-content/uploads/downloads/2016/07/DYT-julia-contacessi_v11.jpg);
+background-repeat:no-repeat;
+background-size: 100%;
+}
+img{filter: grayscale(100%);}
+p3{font-size:14px;
+color:#FFFFF0;
+position : relative ; top: -5px;
+left: 200px;
+font-family: Georgia, Arial, Helvetica, sans-serif;
+font-style: italic;}
+img { position : absolute ; top: 8px;
+           left: 900px; }
+a:link {
+  color: #191970;
+   font-size:18px;
+   text-decoration: none;
+}
+a:visited {
+  color: #191970;
+}
+a:hover {
+  color: #191970; 
+}
+a:active {
+  color: #191970; 
+}
+.second{color:#E0FFFF}
+.first{color:#F0F8FA}
+.fourth{color:#ADD8E6;}
+.third{color:#AFEEEE;}
+
+ul{list-style-type: circle }
