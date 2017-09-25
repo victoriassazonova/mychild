@@ -17,7 +17,7 @@ font-style: italic;
 }
 body{background-image: url(http://www.designlovefest.com/wp-content/uploads/downloads/2016/07/DYT-julia-contacessi_v11.jpg);
 background-repeat:no-repeat;
-background-size: 100%;
+background-size: cover;
 }
 img{filter: grayscale(100%);}
 p3{font-size:14px;
